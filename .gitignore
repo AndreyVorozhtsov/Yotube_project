@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Dev/Yotube_project/.gitignore
+.venv/
